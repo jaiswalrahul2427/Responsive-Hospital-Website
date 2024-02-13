@@ -62,7 +62,6 @@ To use this landing page template, simply clone the repository and customize the
 
 ![Screenshot 2024-02-13 120541](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/4e322ab6-e97d-4680-a4a4-4c908c660c45)
 ![Screenshot 2024-02-13 120622](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/e9c33b9b-7000-443c-bdac-f0491c0caaf4)
-
-![Screenshot 2024-02-13 120555](https://github.com/jaiswalrahul2427/Responsive-Hos![Screenshot 2024-02-13 120646](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/242f31d3-91a1-47b8-bafd-04a869f093ea)
-pital-Website/assets/133475235/641d8f7d-2ee0-45fb-a6f0-2f8c7a4a8427)![Screenshot 2024-02-13 120706](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/e9e304d6-0a11-4b35-9d1b-46cfac5c4cf3)
+[Screenshot 2024-02-13 120646](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/242f31d3-91a1-47b8-bafd-04a869f093ea)
+[Screenshot 2024-02-13 120706](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/e9e304d6-0a11-4b35-9d1b-46cfac5c4cf3)
 
