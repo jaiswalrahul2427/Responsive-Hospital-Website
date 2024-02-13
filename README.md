@@ -60,11 +60,10 @@ This repository contains the code for a landing page designed for a healthcare w
 **Usage:**
 To use this landing page template, simply clone the repository and customize the content as needed for your healthcare website.
 
-![Screenshot 2024-02-13 120541](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/5b603901-9c94-43e9-9f0d-dfef282b7c93)
-![Screenshot 2024-02-13 120353](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/7b58cd67-0a09-4e18-85ad-4db717f63269)
-![Screenshot 2024-02-13 120706](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/c85a936a-4edc-4d4e-b22d-817d143ff921)
-![Screenshot 2024-02-13 120646](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/05151d25-82cb-4566-8bd4-06272cb377f5)
-![Screenshot 2024-02-13 120622](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/3f26aba4-90f2-4bd1-bcf5-971562310c54)
-![Screenshot 2024-02-13 120555](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/2449875b-f96b-4a76-9cfd-29ce7a3ee526)
 
+![Screenshot 2024-02-13 120541](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/34c76aed-d2b8-47d0-9692-cb85c7a364ef)
+![Screenshot 2024-02-13 120555](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/5fb1666a-4c92-4cd2-8a62-e6370513adde)
+![Screenshot 2024-02-13 120622](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/707169e5-df9f-4afd-bae3-01c309e9027b)
+![Screenshot 2024-02-13 120646](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/253bc0a1-7979-4612-a529-2f61642f565f)
+![Screenshot 2024-02-13 120706](https://github.com/jaiswalrahul2427/Responsive-Hospital-Website/assets/133475235/284a74c6-c3f6-41bc-8081-6d095ea61697)
 
